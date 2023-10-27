@@ -1,0 +1,154 @@
+/* Your styles here */
+
+body {font-family: open, sans-serif;
+      margin: 0;
+     font-size: 1.2rem;
+}
+main,footer {text-align: center;}
+
+header div {
+    padding: 30px;
+    background-image: url(../images/banner.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+header {background-color: black;}
+
+main h1 { font-weight: bold;
+     font-size: 2.4rem;
+     
+}
+h2 {
+    font-size: 1.3rem;
+}
+
+h1,h2 {
+    margin-top: 25px;
+    padding: 25px;
+    color: #25a2c3 ;
+    font-family: 'Montserrat', sans-serif;
+}
+
+p {
+    color: #393d41 ;
+    font-family: 'Open Sans', sans-serif;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-weight: bold;
+    line-height:1.65;
+    font-size: 1.2;
+}
+
+header {
+    margin-bottom: 50px;
+}
+header img {
+    width: 160px;
+    padding-top: 35px;
+    padding-bottom: 25px
+}
+
+
+button {
+    border-width: 0;
+    display: block;
+    color: white;
+    background-color: #f04c2f;
+    font-family: 'Montserrat', sans-serif;;
+    border-radius: 7px;
+    padding: 16px 45px;
+    margin-top: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px ;
+    
+}
+
+
+aside {
+    margin-top: 70px;
+    padding-top: 20px;
+    padding-bottom: 45px;
+    background-color: #f04c2f;
+    margin-bottom: 60px;
+}
+
+ #white {
+    color: white;
+ }
+
+ #italic {
+    padding: 20px;
+    color: white;
+    font-size: 1rem;
+    font-weight: 100;
+    font-style: italic;
+ }
+
+ #name {
+    font-weight: 100;
+    font-size: 1.2rem;
+    color: white;
+    font-style: unset;
+ }
+
+  
+ span {
+    font-size: small;
+ }
+
+#circle-image {
+    margin-top: 50px;
+    width: 70%;
+    border-radius: 50%;
+}
+image {
+    box-sizing: content-box;
+
+}
+
+.box,#box {  
+    margin-top: 30px;
+    border: 1px solid rgb(219, 219, 219);
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    width: 90%;
+    padding-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+#box {
+    margin-bottom: 30px;
+}
+
+article img {
+    margin:0;
+    width: 90vw;
+    
+}
+
+footer {
+    margin-top: 70px;
+    background-color: #25a2c3;
+    font-size: 30px;
+}
+
+a, li {
+  line-height:1.65;  
+  color: white;
+  font-size: 16px;
+}
+
+
+#firma {
+    font-size: small;
+    font-style: initial;
+
+    padding: 30px;
+    color: white;
+
+
+}
